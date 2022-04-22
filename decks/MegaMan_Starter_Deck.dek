@@ -1,0 +1,69 @@
+<deck version="0.8">
+	<meta>
+		<game>MMTCG</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="1c53inoy.jpg">It&apos;s Not Over Yet</name><set>PowerUp</set></card>
+		<card><name id="1c53inoy.jpg">It&apos;s Not Over Yet</name><set>PowerUp</set></card>
+		<card><name id="1c53inoy.jpg">It&apos;s Not Over Yet</name><set>PowerUp</set></card>
+		<card><name id="1c53inoy.jpg">It&apos;s Not Over Yet</name><set>PowerUp</set></card>
+		<card><name id="1c46EMF.jpg">Eat More Fish</name><set>PowerUp</set></card>
+		<card><name id="1c46EMF.jpg">Eat More Fish</name><set>PowerUp</set></card>
+		<card><name id="1c46EMF.jpg">Eat More Fish</name><set>PowerUp</set></card>
+		<card><name id="1c62rata.JPG">Recharge and Try Again</name><set>PowerUp</set></card>
+		<card><name id="1c62rata.JPG">Recharge and Try Again</name><set>PowerUp</set></card>
+		<card><name id="1c43determined.jpg">Determined</name><set>PowerUp</set></card>
+		<card><name id="1c43determined.jpg">Determined</name><set>PowerUp</set></card>
+		<card><name id="1c43determined.jpg">Determined</name><set>PowerUp</set></card>
+		<card><name id="1c43determined.jpg">Determined</name><set>PowerUp</set></card>
+		<card><name id="1c68sup.jpg">Strength Under Pressure</name><set>PowerUp</set></card>
+		<card><name id="1c68sup.jpg">Strength Under Pressure</name><set>PowerUp</set></card>
+		<card><name id="1c68sup.jpg">Strength Under Pressure</name><set>PowerUp</set></card>
+		<card><name id="1c68sup.jpg">Strength Under Pressure</name><set>PowerUp</set></card>
+		<card><name id="1c73WOpp.jpg">Worthy Opponent</name><set>PowerUp</set></card>
+		<card><name id="1c73WOpp.jpg">Worthy Opponent</name><set>PowerUp</set></card>
+		<card><name id="1c73WOpp.jpg">Worthy Opponent</name><set>PowerUp</set></card>
+		<card><name id="1c32BCG.jpg">BattleChip Geek</name><set>PowerUp</set></card>
+		<card><name id="1r98ST.jpg">Superior Technique</name><set>PowerUp</set></card>
+		<card><name id="1st104richkid.jpg">Rich Kid</name><set>PowerUp</set></card>
+		<card><name id="1st104richkid.jpg">Rich Kid</name><set>PowerUp</set></card>
+		<card><name id="1r94HeDe.jpg">Heightened Defenses</name><set>PowerUp</set></card>
+		<card><name id="1c59PoPa.jpg">Power Pastries</name><set>PowerUp</set></card>
+		<card><name id="1c59PoPa.jpg">Power Pastries</name><set>PowerUp</set></card>
+		<card><name id="1c59PoPa.jpg">Power Pastries</name><set>PowerUp</set></card>
+		<card><name id="1c59PoPa.jpg">Power Pastries</name><set>PowerUp</set></card>
+		<card><name id="1c30tte.JPG">That&apos;s too easy</name><set>PowerUp</set></card>
+		<card><name id="1c30tte.JPG">That&apos;s too easy</name><set>PowerUp</set></card>
+		<card><name id="1c25IB.jpg">Impressive Battlers</name><set>PowerUp</set></card>
+		<card><name id="1c25IB.jpg">Impressive Battlers</name><set>PowerUp</set></card>
+		<card><name id="1c25IB.jpg">Impressive Battlers</name><set>PowerUp</set></card>
+		<card><name id="1c25IB.jpg">Impressive Battlers</name><set>PowerUp</set></card>
+		<card><name id="1c31uncommonnetbattler.jpg">Uncommon NetBattler</name><set>PowerUp</set></card>
+		<card><name id="1c31uncommonnetbattler.jpg">Uncommon NetBattler</name><set>PowerUp</set></card>
+		<card><name id="1c31uncommonnetbattler.jpg">Uncommon NetBattler</name><set>PowerUp</set></card>
+		<card><name id="1c16rockcube.jpg">RockCube</name><set>PowerUp</set></card>
+		<card><name id="1c16rockcube.jpg">RockCube</name><set>PowerUp</set></card>
+		<card><name id="1c16rockcube.jpg">RockCube</name><set>PowerUp</set></card>
+		<card><name id="1c11cannonball.jpg">CannonBall</name><set>PowerUp</set></card>
+		<card><name id="1c11cannonball.jpg">CannonBall</name><set>PowerUp</set></card>
+		<card><name id="1c11cannonball.jpg">CannonBall</name><set>PowerUp</set></card>
+		<card><name id="1c11cannonball.jpg">CannonBall</name><set>PowerUp</set></card>
+		<card><name id="1c17timebomb.jpg">TimeBomb</name><set>PowerUp</set></card>
+		<card><name id="1c17timebomb.jpg">TimeBomb</name><set>PowerUp</set></card>
+		<card><name id="1c19vulcan1.jpg">Vulcan1</name><set>PowerUp</set></card>
+		<card><name id="1c19vulcan1.jpg">Vulcan1</name><set>PowerUp</set></card>
+		<card><name id="1c19vulcan1.jpg">Vulcan1</name><set>PowerUp</set></card>
+		<card><name id="1c19vulcan1.jpg">Vulcan1</name><set>PowerUp</set></card>
+		<card><name id="1c14laserblast.jpg">LaserBlast</name><set>PowerUp</set></card>
+		<card><name id="1c14laserblast.jpg">LaserBlast</name><set>PowerUp</set></card>
+		<card><name id="1c14laserblast.jpg">LaserBlast</name><set>PowerUp</set></card>
+		<card><name id="1c14laserblast.jpg">LaserBlast</name><set>PowerUp</set></card>
+		<card><name id="1c8Areasteal.jpg">AreaSteal</name><set>PowerUp</set></card>
+		<card><name id="1c8Areasteal.jpg">AreaSteal</name><set>PowerUp</set></card>
+		<card><name id="1c8Areasteal.jpg">AreaSteal</name><set>PowerUp</set></card>
+		<card><name id="1c8Areasteal.jpg">AreaSteal</name><set>PowerUp</set></card>
+	</superzone>
+	<superzone name="NetNavi">
+		<card><name id="1st101MM1.PNG">MegaMan</name><set>PowerUp</set></card>
+	</superzone>
+</deck>

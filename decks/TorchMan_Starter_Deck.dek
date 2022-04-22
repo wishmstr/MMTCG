@@ -1,0 +1,69 @@
+<deck version="0.8">
+	<meta>
+		<game>MMTCG</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="1c49greatsurprise.jpg">Great Surprise</name><set>PowerUp</set></card>
+		<card><name id="1c49greatsurprise.jpg">Great Surprise</name><set>PowerUp</set></card>
+		<card><name id="1c33BigTrouble.JPG">Big Trouble</name><set>PowerUp</set></card>
+		<card><name id="1c33BigTrouble.JPG">Big Trouble</name><set>PowerUp</set></card>
+		<card><name id="1c33BigTrouble.JPG">Big Trouble</name><set>PowerUp</set></card>
+		<card><name id="1c33BigTrouble.JPG">Big Trouble</name><set>PowerUp</set></card>
+		<card><name id="1c47fierynetnavi.jpg">Fiery NetNavi</name><set>PowerUp</set></card>
+		<card><name id="1c47fierynetnavi.jpg">Fiery NetNavi</name><set>PowerUp</set></card>
+		<card><name id="1c47fierynetnavi.jpg">Fiery NetNavi</name><set>PowerUp</set></card>
+		<card><name id="1c59PoPa.jpg">Power Pastries</name><set>PowerUp</set></card>
+		<card><name id="1c59PoPa.jpg">Power Pastries</name><set>PowerUp</set></card>
+		<card><name id="1c59PoPa.jpg">Power Pastries</name><set>PowerUp</set></card>
+		<card><name id="1c59PoPa.jpg">Power Pastries</name><set>PowerUp</set></card>
+		<card><name id="1c44dip.jpg">Difference in Power</name><set>PowerUp</set></card>
+		<card><name id="1c44dip.jpg">Difference in Power</name><set>PowerUp</set></card>
+		<card><name id="1c44dip.jpg">Difference in Power</name><set>PowerUp</set></card>
+		<card><name id="1r99ToweringInferno.jpg">Towering Inferno</name><set>PowerUp</set></card>
+		<card><name id="1r92FlameBrain.jpg">Flame Brain</name><set>PowerUp</set></card>
+		<card><name id="1c73WOpp.jpg">Worthy Opponent</name><set>PowerUp</set></card>
+		<card><name id="1c73WOpp.jpg">Worthy Opponent</name><set>PowerUp</set></card>
+		<card><name id="1c73WOpp.jpg">Worthy Opponent</name><set>PowerUp</set></card>
+		<card><name id="1c73WOpp.jpg">Worthy Opponent</name><set>PowerUp</set></card>
+		<card><name id="1st103fireitup.jpg">Fire it Up</name><set>PowerUp</set></card>
+		<card><name id="1st103fireitup.jpg">Fire it Up</name><set>PowerUp</set></card>
+		<card><name id="1c43determined.jpg">Determined</name><set>PowerUp</set></card>
+		<card><name id="1c43determined.jpg">Determined</name><set>PowerUp</set></card>
+		<card><name id="1c43determined.jpg">Determined</name><set>PowerUp</set></card>
+		<card><name id="1c43determined.jpg">Determined</name><set>PowerUp</set></card>
+		<card><name id="1c28pgm.jpg">Pretty Good Move</name><set>PowerUp</set></card>
+		<card><name id="1c28pgm.jpg">Pretty Good Move</name><set>PowerUp</set></card>
+		<card><name id="1c28pgm.jpg">Pretty Good Move</name><set>PowerUp</set></card>
+		<card><name id="1c21cancelled.jpg">Cancelled</name><set>PowerUp</set></card>
+		<card><name id="1c21cancelled.jpg">Cancelled</name><set>PowerUp</set></card>
+		<card><name id="1c24fotb.jpg">Fish On The Brain</name><set>PowerUp</set></card>
+		<card><name id="1c24fotb.jpg">Fish On The Brain</name><set>PowerUp</set></card>
+		<card><name id="1c25IB.jpg">Impressive Battlers</name><set>PowerUp</set></card>
+		<card><name id="1c25IB.jpg">Impressive Battlers</name><set>PowerUp</set></card>
+		<card><name id="1c25IB.jpg">Impressive Battlers</name><set>PowerUp</set></card>
+		<card><name id="1c13guard1.jpg">Guard1</name><set>PowerUp</set></card>
+		<card><name id="1c13guard1.jpg">Guard1</name><set>PowerUp</set></card>
+		<card><name id="1c13guard1.jpg">Guard1</name><set>PowerUp</set></card>
+		<card><name id="1c8Areasteal.jpg">AreaSteal</name><set>PowerUp</set></card>
+		<card><name id="1c8Areasteal.jpg">AreaSteal</name><set>PowerUp</set></card>
+		<card><name id="1c8Areasteal.jpg">AreaSteal</name><set>PowerUp</set></card>
+		<card><name id="1c8Areasteal.jpg">AreaSteal</name><set>PowerUp</set></card>
+		<card><name id="1c12cybersword.jpg">CyberSword</name><set>PowerUp</set></card>
+		<card><name id="1c12cybersword.jpg">CyberSword</name><set>PowerUp</set></card>
+		<card><name id="1c12cybersword.jpg">CyberSword</name><set>PowerUp</set></card>
+		<card><name id="1c12cybersword.jpg">CyberSword</name><set>PowerUp</set></card>
+		<card><name id="1c19vulcan1.jpg">Vulcan1</name><set>PowerUp</set></card>
+		<card><name id="1c19vulcan1.jpg">Vulcan1</name><set>PowerUp</set></card>
+		<card><name id="1c19vulcan1.jpg">Vulcan1</name><set>PowerUp</set></card>
+		<card><name id="1c19vulcan1.jpg">Vulcan1</name><set>PowerUp</set></card>
+		<card><name id="1c14laserblast.jpg">LaserBlast</name><set>PowerUp</set></card>
+		<card><name id="1c14laserblast.jpg">LaserBlast</name><set>PowerUp</set></card>
+		<card><name id="1c14laserblast.jpg">LaserBlast</name><set>PowerUp</set></card>
+		<card><name id="1c7airshot.jpg">AirShot</name><set>PowerUp</set></card>
+		<card><name id="1c7airshot.jpg">AirShot</name><set>PowerUp</set></card>
+		<card><name id="1c7airshot.jpg">AirShot</name><set>PowerUp</set></card>
+	</superzone>
+	<superzone name="NetNavi">
+		<card><name id="1st102Torchman.JPG">TorchMan</name><set>PowerUp</set></card>
+	</superzone>
+</deck>

@@ -1,0 +1,69 @@
+<deck version="0.8">
+	<meta>
+		<game>MMTCG</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="1c49greatsurprise.jpg">Great Surprise</name><set>PowerUp</set></card>
+		<card><name id="1c49greatsurprise.jpg">Great Surprise</name><set>PowerUp</set></card>
+		<card><name id="1c49greatsurprise.jpg">Great Surprise</name><set>PowerUp</set></card>
+		<card><name id="3c27Requital.jpg">Requital</name><set>Grave</set></card>
+		<card><name id="3c27Requital.jpg">Requital</name><set>Grave</set></card>
+		<card><name id="3c27Requital.jpg">Requital</name><set>Grave</set></card>
+		<card><name id="3u52FE.jpg">Food Education</name><set>Grave</set></card>
+		<card><name id="3u52FE.jpg">Food Education</name><set>Grave</set></card>
+		<card><name id="3u52FE.jpg">Food Education</name><set>Grave</set></card>
+		<card><name id="3c31surprisetransfer.jpg">Surprise Transfer</name><set>Grave</set></card>
+		<card><name id="3c31surprisetransfer.jpg">Surprise Transfer</name><set>Grave</set></card>
+		<card><name id="3c31surprisetransfer.jpg">Surprise Transfer</name><set>Grave</set></card>
+		<card><name id="2c22doggeddeterm.jpg">Dogged Determination</name><set>GrandPrix</set></card>
+		<card><name id="2c22doggeddeterm.jpg">Dogged Determination</name><set>GrandPrix</set></card>
+		<card><name id="2c22doggeddeterm.jpg">Dogged Determination</name><set>GrandPrix</set></card>
+		<card><name id="3u53GotF.jpg">Guardian of the Forest</name><set>Grave</set></card>
+		<card><name id="3u53GotF.jpg">Guardian of the Forest</name><set>Grave</set></card>
+		<card><name id="3u53GotF.jpg">Guardian of the Forest</name><set>Grave</set></card>
+		<card><name id="1c37Clevertrick.jpg">Clever Trick</name><set>PowerUp</set></card>
+		<card><name id="1c37Clevertrick.jpg">Clever Trick</name><set>PowerUp</set></card>
+		<card><name id="1c37Clevertrick.jpg">Clever Trick</name><set>PowerUp</set></card>
+		<card><name id="3c16eliminate.jpg">Eliminate</name><set>Grave</set></card>
+		<card><name id="3c16eliminate.jpg">Eliminate</name><set>Grave</set></card>
+		<card><name id="3c16eliminate.jpg">Eliminate</name><set>Grave</set></card>
+		<card><name id="3u51ConnectionInterrupted.jpg">Connection Interrupted</name><set>Grave</set></card>
+		<card><name id="3u51ConnectionInterrupted.jpg">Connection Interrupted</name><set>Grave</set></card>
+		<card><name id="3u51ConnectionInterrupted.jpg">Connection Interrupted</name><set>Grave</set></card>
+		<card><name id="3c20GIA.jpg">Giving It Away</name><set>Grave</set></card>
+		<card><name id="3c20GIA.jpg">Giving It Away</name><set>Grave</set></card>
+		<card><name id="3c20GIA.jpg">Giving It Away</name><set>Grave</set></card>
+		<card><name id="3r77SurSha.jpg">Surprisingly Sharp</name><set>Grave</set></card>
+		<card><name id="3u48FrozenOut.jpg">Frozen Out</name><set>Grave</set></card>
+		<card><name id="3u48FrozenOut.jpg">Frozen Out</name><set>Grave</set></card>
+		<card><name id="3u48FrozenOut.jpg">Frozen Out</name><set>Grave</set></card>
+		<card><name id="3r68OutofWater.jpg">Out of Water</name><set>Grave</set></card>
+		<card><name id="2c17lac.jpg">Loud and Clear</name><set>GrandPrix</set></card>
+		<card><name id="2c17lac.jpg">Loud and Clear</name><set>GrandPrix</set></card>
+		<card><name id="2c17lac.jpg">Loud and Clear</name><set>GrandPrix</set></card>
+		<card><name id="3st83NoAlternatives.jpg">No Alternatives</name><set>Grave</set></card>
+		<card><name id="3st83NoAlternatives.jpg">No Alternatives</name><set>Grave</set></card>
+		<card><name id="2c8guard2.jpg">Guard2</name><set>GrandPrix</set></card>
+		<card><name id="2c8guard2.jpg">Guard2</name><set>GrandPrix</set></card>
+		<card><name id="1c13guard1.jpg">Guard1</name><set>PowerUp</set></card>
+		<card><name id="1c13guard1.jpg">Guard1</name><set>PowerUp</set></card>
+		<card><name id="1c13guard1.jpg">Guard1</name><set>PowerUp</set></card>
+		<card><name id="1c12cybersword.jpg">CyberSword</name><set>PowerUp</set></card>
+		<card><name id="1c12cybersword.jpg">CyberSword</name><set>PowerUp</set></card>
+		<card><name id="1c12cybersword.jpg">CyberSword</name><set>PowerUp</set></card>
+		<card><name id="1c11cannonball.jpg">CannonBall</name><set>PowerUp</set></card>
+		<card><name id="1c11cannonball.jpg">CannonBall</name><set>PowerUp</set></card>
+		<card><name id="1c11cannonball.jpg">CannonBall</name><set>PowerUp</set></card>
+		<card><name id="2c9hicannon.jpg">HiCannon</name><set>GrandPrix</set></card>
+		<card><name id="2c9hicannon.jpg">HiCannon</name><set>GrandPrix</set></card>
+		<card><name id="2c9hicannon.jpg">HiCannon</name><set>GrandPrix</set></card>
+		<card><name id="3c5Recov10.JPG">Recovery10</name><set>Grave</set></card>
+		<card><name id="3c5Recov10.JPG">Recovery10</name><set>Grave</set></card>
+		<card><name id="3c5Recov10.JPG">Recovery10</name><set>Grave</set></card>
+		<card><name id="1c15MEB.jpg">MegaEnergyBomb</name><set>PowerUp</set></card>
+		<card><name id="1c15MEB.jpg">MegaEnergyBomb</name><set>PowerUp</set></card>
+	</superzone>
+	<superzone name="NetNavi">
+		<card><name id="3st81Sharkman.jpg">SharkMan</name><set>Grave</set></card>
+	</superzone>
+</deck>

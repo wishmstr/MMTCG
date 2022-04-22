@@ -1,0 +1,364 @@
+Name	Set	ImageFile	Type	Title	Tags	Emblem	Color	Strength	Defense	Blast	Destiny	Required_Power	Required_Color	Required_Emblem	Text	Help	Number
+Clear Victory	Promo	1-1CV.jpg	Resource				Red				2				SPEND: Lose 6 energy to make your opponent lose 4 energy.		1*1
+Reckless	Promo	1-2reckless.jpg	Resource				Yellow				5	3			SPEND: Discard 2 yellow cards to destroy 3 of your opponent's resources.		1*2
+ElecMan	PowerUp	1c1elecman.jpg	NetNavi	Fully Charged		ElecMan		1	0	1					Whenever you play a BattleChip, you may place up to 2 cards from your discard pile in your power gauge.		1C1
+BoysBomb	PowerUp	1c10Boysbomb.jpg	BattleChip								3	2	1x Yellow		Your NetNavi is strength +1 for each card in your power gauge.		1C10
+CannonBall	PowerUp	1c11cannonball.jpg	BattleChip								4		1x Green		Discard a card to make your NetNavi strength +4.		1C11
+CyberSword	PowerUp	1c12cybersword.jpg	BattleChip								4		1x Blue		Make your opponent take a random card from his or her discard pile into hand to make your NetNavi strength +4.		1C12
+Guard1	PowerUp	1c13guard1.jpg	BattleChip								3				Discard a blue card to make your NetNavi defense +3.		1C13
+LaserBlast	PowerUp	1c14laserblast.jpg	BattleChip								5	3	2x Red		Your NetNavi is strength +5.		1C14
+MegaEnergyBomb	PowerUp	1c15MEB.jpg	BattleChip								4	4			Lose 1 energy to make your NetNavi strength +2 for each blue resource you have in play.		1C15
+RockCube	PowerUp	1c16rockcube.jpg	BattleChip								2				Burn 1 power to make your NetNavi defense +2. You may play an additional BattleChip.		1C16
+TimeBomb	PowerUp	1c17timebomb.jpg	BattleChip								3	3	2x Red		Your NetNavi is defense +5.		1C17
+Tornado	PowerUp	1c18tornado.jpg	BattleChip								2		1x Green		Your NetNavi is strength +1 for each card in your opponent's hand.		1C18
+Vulcan1	PowerUp	1c19vulcan1.jpg	BattleChip								2	2			Your NetNavi is strength +2.		1C19
+GutsMan	PowerUp	1c2gutsman.jpg	NetNavi	Body Strength		GutsMan		3	1	3					Whenever you play a BattleChip, your GutsMan is strength +1.		1C2
+Asking For It	PowerUp	1c20askingforit.jpg	Event				Green				5		1x Green		Opponent draws 2 cards.		1C20
+Cancelled	PowerUp	1c21cancelled.jpg	Event				Blue				5		1x Blue		Discard a card to cancel a BattleChip.		1C21
+Fast And Powerful	PowerUp	1c22fap.jpg	Event				Blue				4		1x Blue		Reduce a NetNavi's blast to 1.		1C22
+Fish Intervention	PowerUp	1c23FI.jpg	Event				Yellow				4		1x Yellow		Power Up.		1C23
+Fish On The Brain	PowerUp	1c24fotb.jpg	Event				Blue				4		1x Blue		Discard a card to cancel a blast destiny.		1C24
+Impressive Battlers	PowerUp	1c25IB.jpg	Event				Red				3	3	1x Red		Add 4 to your blast destiny.		1C25
+Not Enough Power	PowerUp	1c26NEP.jpg	Event				Red				2		1x Red		You may play an additional BattleChip.		1C26
+Playing Dirty	PowerUp	1c27PlayDirty.JPG	Event				Yellow				2		1x Yellow		Burn an opponent's power.		1C27
+Pretty Good Move	PowerUp	1c28pgm.jpg	Event				Red				4	2	2x Red		Make your NetNavi defense +4.		1C28
+Technical Difficulties	PowerUp	1c29TechnicalDiff.JPG	Event				Yellow				4		2x Yellow		Destroy a resource.		1C29
+MagicMan	PowerUp	1c3Magicman.jpg	NetNavi	Riddler		MagicMan		2	2	3					Whenever you play a BattleChip, your MagicMan is blast -2.		1C3
+That's too easy	PowerUp	1c30tte.JPG	Event				Green				5	3	2x Green		Take any card from your deck into hand. Shuffle your deck.		1C30
+Uncommon NetBattler	PowerUp	1c31uncommonnetbattler.jpg	Event				Green				3	2	1x Green		Draw 2 cards.		1C31
+BattleChip Geek	PowerUp	1c32BCG.jpg	Resource				Green				4	2			SPEND: Burn 2 power to draw 3 cards.		1C32
+Big Trouble	PowerUp	1c33BigTrouble.JPG	Resource				Blue				1	2			SPEND: Make a NetNavi blast -1 until end of next turn.		1C33
+BucketHead	PowerUp	1c34buckethead.jpg	Resource			GutsMan	Yellow				3			1x GutsMan	SPEND: Spend a resource for no effect to power up twice.		1C34
+Channeling	PowerUp	1c35channeling.jpg	Resource			Roll	Blue				3	4		1x Roll	SPEND: Place 2 cards from hand in your power gauge.		1C35
+Charging Up	PowerUp	1c36Chargingup.jpg	Resource			ElecMan	Green				4			1x ElecMan	SPEND: Burn a power to recharge 2 energy.	(Recharge an energy by placing a random card from your discard pile beneath your deck.)	1C36
+Clever Trick	PowerUp	1c37Clevertrick.jpg	Resource				Green				3				SPEND: If you played a BattleChip this turn, draw a card.		1C37
+Clowning Around	PowerUp	1c38clowningaround.jpg	Resource				Green				1	3		1x WackoMan	SPEND: Your opponent draws 3 cards.		1C38
+Counter Attack	PowerUp	1c39counterattack.jpg	Resource			NumberMan	Yellow				2			1x NumberMan	SPEND: Lose 2 energy to burn an opponent's power.		1C39
+NumberMan	PowerUp	1c4Numberman.PNG	NetNavi	Calculator		NumberMan		1	3	2							1C4
+CyberWarrior	PowerUp	1c40cyberwarrior.jpg	Resource				Yellow				4				SPEND: Burn 2 power to destroy an opponent's resource.		1C40
+Data Scan	PowerUp	1c41datascan.jpg	Resource			Roll	Blue				1			1x Roll	SPEND: Place all of your resources in play (including this one) in your power gauge.		1C41
+Delicious and Nutritious	PowerUp	1c42dan.jpg	Resource				Green				1				SPEND: Recharge and energy.	(Recharge an energy by placing a random card from your discard pile beneath your deck.)	1C42
+Determined	PowerUp	1c43determined.jpg	Resource				Red				1				SPEND: Lose an energy to make your opponent lose an energy.		1C43
+Difference in Power	PowerUp	1c44dip.jpg	Resource				Blue				1	2			SPEND: Make a NetNavi blast +1 until end of next turn.		1C44
+Double Zap	PowerUp	1c45doublezap.jpg	Resource			ElecMan	Yellow				3			1x ElecMan	SPEND: Blast. This does not count against your blast limit.		1C45
+Eat More Fish	PowerUp	1c46EMF.jpg	Resource				Green				3	2			SPEND: Burn a power to draw 2 cards.		1C46
+Fiery NetNavi	PowerUp	1c47fierynetnavi.jpg	Resource				Red				2	3			SPEND: Add your NetNavi's defense to its strength.		1C47
+Focus	PowerUp	1c48focus.jpg	Resource				Yellow				2				SPEND: Lose 2 energy to power up.		1C48
+Great Surprise	PowerUp	1c49greatsurprise.jpg	Resource				Blue				2				SPEND: Discard a card to make your opponent discard a card.		1C49
+Roll	PowerUp	1c5roll.jpg	NetNavi	Hip and Cool		Roll		1	2	2					Whenever you play a BattleChip, your Roll is defense +2.		1C5
+GutsHammer	PowerUp	1c50gutshammer.jpg	Resource			GutsMan	Red				2	3		1x GutsMan	SPEND: Add your GutsMan blast to your blast destiny.		1C50
+Handy Work	PowerUp	1c51handywork.jpg	Resource				Blue				3	3			SPEND: Play a resource.		1C51
+It's an Emergency	PowerUp	1c52IaE.jpg	Resource				Yellow				3	2			SPEND: Burn 1 power to place a card from your discard pile in your power gauge.		1C52
+It's Not Over Yet	PowerUp	1c53inoy.jpg	Resource				Green				1				SPEND: Draw a card.		1C53
+Let 'em Have It	PowerUp	1c54letemhaveit.JPG	Resource				Yellow				2				SPEND: Burn a power to burn an opponent's power.		1C54
+Looking Hot	PowerUp	1c55LookingHot.jpg	Resource			TorchMan	Blue				2	3		1x TorchMan	SPEND: Opponent can't play events and BattleChips.		1C55
+Mind Tricks	PowerUp	1c56mindtricks.jpg	Resource			MagicMan	Green				3	4		1x MagicMan	SPEND: Burn a power to take any card from your deck into hand. Shuffle your deck, then place this card beneath your deck.		1C56
+No One Can Escape	PowerUp	1c57NOCE.jpg	Resource				Blue				3	2			SPEND: Discard a card to cancel a green blast destiny.		1C57
+Odds Are Against You	PowerUp	1c58oaay.jpg	Resource			MagicMan	Blue				2			1x MagicMan	SPEND: Burn a power to make a NetNavi blast +2 until end of next turn. Place this card beneath your deck.		1C58
+Power Pastries	PowerUp	1c59PoPa.jpg	Resource				Red				1				SPEND: Add 1 to your blast destiny.		1C59
+WackoMan	PowerUp	1c6wackoman.jpg	NetNavi	Whimsical		WackoMan		1	3	3					Whenever you play a BattleChip, you may recharge an energy.		1C6
+Ready For Action	PowerUp	1c60rfa.jpg	Resource			NumberMan	Red				2			1x NumberMan	SPEND: Lose 2 energy to add 3 to your blast destiny.		1C60
+Ready For Battle	PowerUp	1c61readyforbattle.jpg	Resource				Yellow				3	2			SPEND: Discard a yellow card to power up twice.		1C61
+Recharge and Try Again	PowerUp	1c62rata.JPG	Resource				Green				4				SPEND: Burn 2 power to recharge 3 energy.	(Recharge an energy by placing a random card from your discard pile beneath your deck.)	1C62
+Rival	PowerUp	1c63rival.JPG	Resource				Red				1	2			SPEND: Make your NetNavi defense +1.		1C63
+Routine Defense	PowerUp	1c64RoutineDefense.jpg	Resource				Blue				3	2			SPEND: Discard a card to cancel a yellow blast destiny.		1C64
+Send in the Clowns	PowerUp	1c65sendintheclowns.jpg	Resource			WackoMan	Blue				1			1x WackoMan	SPEND: Your opponent discards down to 3 cards.		1C65
+Show No Mercy	PowerUp	1c66SNM.jpg	Resource				Blue				3	2			SPEND: Discard a card to cancel a red blast destiny.		1C66
+SmackDown	PowerUp	1c67smackdown.jpg	Resource				Yellow				5	3			SPEND: Discard 2 cards to destroy 2 of your opponent's resources.		1C67
+Strength Under Pressure	PowerUp	1c68sup.jpg	Resource				Red				3	3			SPEND: Discard a card to make your NetNavi defense +3.		1C68
+Take Control	PowerUp	1c69takecontrol.jpg	Resource				Green				1				SPEND: Draw a card to make your opponent draw a card.		1C69
+AirShot	PowerUp	1c7airshot.jpg	BattleChip								3	2			Burn 1 power to make your NetNavi defense +3.		1C7
+Two for One	PowerUp	1c70tfo.jpg	Resource			MegaMan	Green				4	2		1x MegaMan	SPEND: Take the next 3 cards you draw randomly from your discard pile instead of your deck.		1C70
+Useless One	PowerUp	1c71uselessone.jpg	Resource				Blue				3	2			SPEND: Discard a card to cancel a blue blast destiny.		1C71
+Winning Hand	PowerUp	1c72winninghand.jpg	Resource				Yellow				2	2			SPEND: If you played a BattleChip this turn, power up.		1C72
+Worthy Opponent	PowerUp	1c73WOpp.jpg	Resource				Red				1	2			SPEND: Add 2 to your blast destiny.		1C73
+AreaSteal	PowerUp	1c8Areasteal.jpg	BattleChip								4				Burn 1 power to make your NetNavi strength +2. You may play an additional BattleChip.		1C8
+Boomer2	PowerUp	1c9boomer2.jpg	BattleChip								4		1x Yellow		Burn 1 power to make your NetNavi strength +4.		1C9
+MegaMan	Promo	1p1megaman3.jpg	NetNavi	CyberHero		MegaMan		2	1	2					Whenever you discard down, you may place discarded cards beneath your deck instead of your discard pile.		1P1
+EnergyBomb	Promo	1p2energybomb.jpg	BattleChip								5		3x Yellow		When you lose energy during battle, place the lost cards first in your power gauge (until it is full).		1P2
+Guardian	Promo	1p3guardian.jpg	BattleChip								5		2x Green		Discard 2 cards. When you lose energy during battle, take the lost cards into hand.		1P3
+Blue Battler	Promo	1p4BB.JPG	Resource				Green				1	3			SPEND: Burn 3 power to take 2 cards from your discard pile into hand.		1P4
+Dish a Little Dirt	Promo	1p5.jpg	Resource				Blue				4	3			SPEND: Discard a card and note its destiny. Cancel a blast destiny of that value.		1P5
+Friendly Ms. Mari	Promo	1p6msmari.JPG	Resource				Yellow				3	3			SPEND: Burn 2 power to place 2 cards from your discard pile in your power gauge.		1P6
+Rock Solid	Promo	1p7RockSolid.jpg	Resource				Red				2	2			SPEND: Lose 2 energy and note which has the smaller destiny. Your opponent loses that much energy.		1P7
+Upload	PowerUp	1r100upload.jpg	Resource				Green				4	2			SPEND: Burn 2 power to take a card from your discard pile into hand.		1R100
+Barrier	PowerUp	1r74barrier.JPG	BattleChip								3	3	1x Red		Add your NetNavi's strength to defense.		1R74
+BigHammer1	PowerUp	1r75BH1.JPG	BattleChip			GutsMan					3		2x Yellow	1x GutsMan	Make your GutsMan strength +5.		1R75
+Bubbler	PowerUp	1r76bubbler.jpg	BattleChip			Roll					4		2x Blue	1x Roll	Make your Roll defense +4.		1R76
+Discord	PowerUp	1r77Discord.jpg	BattleChip			WackoMan					3		2x Green	1x WackoMan	Discard 2 green cards to make your WackoMan strength +2 for each card in your opponent's hand.		1R77
+HeatShot	PowerUp	1r78HeatShot.jpg	BattleChip			TorchMan					1		2x Red	1x TorchMan	Burn 2 power to make your TorchMan strength +3 for each TorchMan card you have in play.		1R78
+Invisible	PowerUp	1r79Invisible.JPG	BattleChip			MagicMan					4		2x Blue	1x MagicMan	Make your MagicMan strength +4. Place this card beneath your deck.		1R79
+Lightning1	PowerUp	1r80lightning1.JPG	BattleChip								4		2x Yellow		When your opponent loses energy during battle, lost cards come first from his or her power gauge.		1R80
+LongSword	PowerUp	1r81longsword.jpg	BattleChip								3	3	1x Green		Your NetNavi is strength +1 for each card in our hand.		1R81
+MiniBoomer	PowerUp	1r82Miniboomer.jpg	BattleChip			NumberMan					3		2x Red	1x NumberMan	Lose 2 energy and note their destinies. Add them to your NumberMan's strength.		1R82
+Spreader	PowerUp	1r83spreader.jpg	BattleChip			MegaMan					5		2x Green	1x MegaMan	Discard a card. Whenever your opponent loses an energy, you may draw a card.		1R83
+Thunder1	PowerUp	1r84thunder1.jpg	BattleChip			ElecMan					5		2x Yellow	1x ElecMan	Discard 2 yellow cards to make your ElecMan strength +2 for each card in your power gauge.		1R84
+WideSword	PowerUp	1r85widesword.jpg	BattleChip								5		1x Blue		Discard a card to reduce a NetNavi's strength to 0.		1R85
+Disaster Strikes	PowerUp	1r86DS.jpg	Event				Red				3	2	3x Red		If your blast destiny is greater than 7, burn 2 power to make your opponent lose 10 energy.		1R86
+Drowning	PowerUp	1r87drowning.jpg	Event				Green				3	2	1x Green		All players count their cards in hand, shuffle those hands into their decks, and draw that number of cards.		1R87
+Flush Out Your Opponent	PowerUp	1r88foyo.jpg	Event				Blue				3	2	1x Blue		Return up to 2 resources to their owner's hands		1R88
+Intense Power	PowerUp	1r89IP.jpg	Event				Yellow				5	3	2x Yellow		Reveal the cards in your power gauge. If their total destiny is 12 or greater, search your opponent's deck and place 4 cards from it in his or her discard pile. Then the opponent shuffles that deck.		1R89
+Calculated	PowerUp	1r90calculated.jpg	Resource			NumberMan	Yellow				4			1x NumberMan	SPEND: Whenever you lose an energy, you may place that card in your power gauge. You may do this twice.		1R90
+Energized	PowerUp	1r91energized.jpg	Resource			ElecMan	Yellow				4	3		1x ElecMan	SPEND: Place this resource in your power gauge.		1R91
+Flame Brain	PowerUp	1r92FlameBrain.jpg	Resource			TorchMan	Blue				1			1x TorchMan	SPEND: Opponent discards a card.		1R92
+GutsThump	PowerUp	1r93gutsthump.jpg	Resource			GutsMan	Red				5			1x GutsMan	SPEND: Spend a resource for no effect to make your opponent's NetNavi defense 0.		1R93
+Heightened Defenses	PowerUp	1r94HeDe.jpg	Resource			MegaMan	Red				4			1x MegaMan	SPEND: Discard 2 cards to make your MegaMan defense +4.		1R94
+Magic Block	PowerUp	1r95Magicblock.jpg	Resource			MagicMan	Blue				4			1x MagicMan	SPEND: Discard 2 cards to cancel a blast destiny. Place this card beneath your deck.		1R95
+RollBlast	PowerUp	1r96rollblast.jpg	Resource			Roll	Yellow				2			1x Roll	SPEND: Burn 2 power and note which has the smaller destiny. Place that many cards from the bottom of your discard pile in your power gauge.		1R96
+SteamRoll	PowerUp	1r97steamroll.jpg	Resource			WackoMan	Green				3			1x WackoMan	SPEND: Burn 4 power to recharge 2 energy for each card in your opponent's hand.	(Recharge an energy by placing a random card from your discard pile beneath your deck.)	1R97
+Superior Technique	PowerUp	1r98ST.jpg	Resource			MegaMan	Red				4			1x MegaMan	SPEND: Discard 2 cards to add 5 to your blast destiny.		1R98
+Towering Inferno	PowerUp	1r99ToweringInferno.jpg	Resource			TorchMan	Red				4			1x TorchMan	SPEND: Burn a power to make opponent lose 2 energy.		1R99
+Incredible Speed	PowerUp	1sr105InSp.jpg	Event				Red				5		4x Red		Add 8 to your blast destiny.		1SR105
+Method For Well-Being	PowerUp	1sr106MFWB.jpg	Event				Yellow				5		4x Yellow		Power up until your power gauge is full and burn all of your opponent's power.		1SR106
+Perfectly Executed	PowerUp	1sr107PE.JPG	Event				Green				5		4x Green		Whenever your opponent loses an energy, you recharge an energy.	(Recharge an energy by placing a random card from your discard pile beneath your deck.)	1SR107
+System Error	PowerUp	1sr108systemerror.jpg	Event				Blue				3	3	4x Blue		Burn 2 power. When you are about to lose energy during battle, your opponent loses that energy instead		1SR108
+Count Zap	PowerUp	1sr109CountZap.jpg	Resource	Metal Head	NetOp	ElecMan	Green				5			1x ElecMan	Whenever you play another ElecMan card, you may recharge an energy.	(Recharge an energy by placing a random card from your discard pile beneath your deck.)	1SR109
+Dex	PowerUp	1sr110dex.jpg	Resource	Jokester	NetOp	GutsMan	Yellow				4	4		1x GutsMan	Whenever you play another GutsMan card, you may destroy a resource.		1SR110
+Higsby	PowerUp	1sr111Higsby.jpg	Resource	Nerdy	NetOp	NumberMan	Red				3			1x NumberMan	Whenever you play another NumberMan card, you may place a card from your discard pile on top of your deck.		1SR111
+Lan	PowerUp	1sr112Lan.jpg	Resource	NetBattler	NetOp	MegaMan	Green				1	2		1x MegaMan	Whenever you play another MegaMan card, you may draw 2 cards.		1SR112
+Maddy	PowerUp	1sr113Maddy.JPG	Resource	Trickster	NetOp	WackoMan	Green				3			1x WackoMan	Whenever you play another WackoMan card, you may make your opponent draws 2 cards.		1SR113
+Maylu	PowerUp	1sr114Maylu.jpg	Resource	SweetHeart	NetOp	Roll	Yellow				5			1x Roll	Whenever you play another Roll card, you may look at the cards in your power gauge and replace them in any order.		1SR114
+Mr. Match	PowerUp	1sr115MrMatch.jpg	Resource	Red Hot	NetOp	TorchMan	Red				3			1x TorchMan	Whenever you play another TorchMan card, you may make your opponent lose an energy.		1SR115
+Yahoot	PowerUp	1sr116yahoot.jpg	Resource	Guru	NetOp	MagicMan	Blue				2			1x MagicMan	Whenever you play another MagicMan card, you may place a card from hand in your power gauge.		1SR116
+MegaMan	PowerUp	1st101MM1.PNG	NetNavi	NetWarrior		MegaMan		2	2	2							1St101
+TorchMan	PowerUp	1st102Torchman.JPG	NetNavi	HotHead		TorchMan		2	2	2							1St102
+Fire it Up	PowerUp	1st103fireitup.jpg	Resource				Red				2	3			SPEND: Lose 1 energy to add 3 to your blast destiny.		1St103
+Rich Kid	PowerUp	1st104richkid.jpg	Resource				Green				2				SPEND: Burn a power to recharge 2 energy.		1St104
+DarkCannon	LevelUp	1T1.jpg	BattleChip								5		3x Red		Spend 1 Level Up card. All cards revealed when you blast provide blast destiny.		1T1
+All About Endurance	LevelUp	1T2.jpg	Event				Green				5	3	2x Green		Spend 1 Level Up card. Discard 2 green cards to recharge 8 energy.	(Recharge an energy by placing a random card from your discard pile beneath your deck.)	1T2
+Double Power	LevelUp	1T3.png	Event				Yellow				4	3	1x Yellow		Spend 2 Level Up cards. Blast. This does not count against your blast limit.		1T3
+Infamous Dr. Wily	LevelUp	1T4.jpg	Event				Blue				7		2x Blue		Spend 3 Level Up Cards. Discard a card to make your opponent discard his or her hand.		1T4
+Pink Pixel Brat	LevelUp	1T5.jpg	Event				Red				4	2	1x Red		Spend 2 Level Up cards. Make a NetNavi defense 0.		1T5
+LEVEL UP!	LevelUp	1T6.jpg	Level Up!	MegaMan		MegaMan											1T6
+LEVEL UP!	LevelUp	1T7.jpg	Level Up!	GutsMan		GutsMan											1T7
+LEVEL UP!	LevelUp	1T8.jpg	Level Up!	Roll		Roll											1T8
+Counter1	PowerUp	1ur117counter1.jpg	BattleChip								5	4			Discard 3 cards to make all of your cards destiny +5.		1UR117
+Jealousy	PowerUp	1ur118jealousy.jpg	BattleChip								5	5			Burn 4 power to make your NetNavi strength +10.		1UR118
+LifeAura	PowerUp	1ur119.jpg	BattleChip								5	5			Burn 5 power to make opponent discard his or her hand. Then you draw a card and recharge an energy for each card opponent discarded.		1UR119
+M-Cannon	PowerUp	1ur120mcannon.jpg	BattleChip								3	5			Burn 5 power to make your NetNavi strength +3 for each resource in play.		1UR120
+Best Throw Ever	PowerUp	1ur121BTE.jpg	Event			NumberMan	Red				5	5		3x NumberMan	Lose 3 energy and note the total of their destinies. Add that amount to your blast destiny.		1UR121
+BusterBlast	PowerUp	1ur122busterblast.jpg	Event			MegaMan	Green				7			3x MegaMan	Burn 1 power to draw 4 cards.		1UR122
+Feel The Thump	PowerUp	1ur123feelthethump.jpg	Event			GutsMan	Yellow				3			3x GutsMan	Spend 2 resources for no effect to destroy all of your opponent's resources and burn all of your opponent's power.		1UR123
+Fire Factory	PowerUp	1ur124FireFactory.jpg	Event			TorchMan	Red				5	5		3x TorchMan	Burn 3 power to make your opponent lose 12 energy.		1UR124
+HeartBurn	PowerUp	1ur125heartburn.jpg	Event			WackoMan	Blue				5	5		3x WackoMan	Burn 2 power to make you opponent discard his or her hand and lose an energy for each card discarded.		1UR125
+Shocker	PowerUp	1ur126Shocker.jpg	Event			ElecMan	Yellow				5	3		3x ElecMan	Burn 2 power to blast from your opponent's power gauge twice. This does not count against your blast limit.		1UR126
+Underestimated	PowerUp	1ur127underestimated.jpg	Event			Roll	Blue				5	3		3x Roll	Burn 3 power. Whenever you are about to lose an energy, you may recharge an energy instead. You may do this 5 times.		1UR127
+Wheel of Magic	PowerUp	1ur128wom.jpg	Event			MagicMan	Green				7			3x MagicMan	Burn 2 power to take any 2 cards from your deck into hand. Shuffle your deck.		1UR128
+Attentive Opponent	Promo	2-1AO.jpg	Resource				Green				3	4			SPEND: Discard 4 cards. For each card of a different destiny you discard, each player draws a card and you recharge an energy.		2*1
+Do-Si-Do	Promo	2-2dosido.jpg	Resource				Yellow				3	4			SPEND: Discard 4 cards. For each card of a different destiny you discard, burn an opponent's power and power up.		2*2
+AirMan	GrandPrix	2c1airman.jpg	NetNavi	Ready to Blow		AirMan		1	2	3					Whenever you play a BattleChip, you may return up to 2 resources to their owners' hands.		2C1
+MegaMan	Promo	S7.gif	NetNavi	NetCity Defender		MegaMan		2	2	4					Whenever you play a BattleChip, you may burn an opponent's power.		2C1
+HolyPanel	GrandPrix	2c10holypanel.JPG	BattleChip								2	3			Whenever you spend a resource, you may recharge an energy.		2C10
+MokoRush1	GrandPrix	2c11MR1.JPG	BattleChip								3		1x Red		Whenever your opponent blasts, you may make your NetNavi defense +3.		2C11
+Vulcan2	GrandPrix	2c12Vulcan2.jpg	BattleChip								1	3			Make your NetNavi strength +3.		2C12
+WhiteWeb1	GrandPrix	2c13ww1.jpg	BattleChip								3	2			Your opponent cannot recharge energy.		2C13
+Chip Junkie	GrandPrix	2c14chipjunkie.jpg	Event				Red				5		1x Red		Reveal a random card from your discard pile. If it is a BattleChip, you may play it. This does not count against your BattleChip limit.		2C14
+Choose Carefully	GrandPrix	2c15choosecarefully.jpg	Event				Green				5		1x Green		Name a card type. Lose energy one card at a time until you lose a card of that type. Take that card into hand.		2C15
+Counting Down	GrandPrix	2c16CountingDown.jpg	Event				Yellow				5		1x Yellow		Look at the cards in your power gauge and replace them in any order.		2C16
+Loud and Clear	GrandPrix	2c17lac.jpg	Event				Blue				5		1x Blue		Opponent discards down to 3 cards.		2C17
+Air Head	GrandPrix	2c18airhead.JPG	Resource			AirMan	Blue				2			1x AirMan	SPEND: Place a card from hand on top of your deck to make a NetNavi +2 until end of next turn.		2C18
+Bitten	GrandPrix	2c19bitten.jpg	Resource				Blue				3	2			SPEND: Discard a card with your NetNavi's emblem to place 2 cards from hand in your power gauge.		2C19
+IceMan	GrandPrix	2c2Iceman.JPG	NetNavi	Deceptively Cool		IceMan		1	3	4					Whenever you play a resource, you may make your opponent play a card from hand in his or her power gauge.		2C2
+Charge Forward	GrandPrix	2c20ChargeForward.jpg	Resource				Yellow				3				SPEND: Discard a yellow card to place a card from your discard pile into your power gauge.		2C20
+Clean 'Em Out	GrandPrix	2c21CEO.jpg	Resource				Red				1				SPEND: Discard a red card to make your NetNavi defense +3.		2C21
+Dogged Determination	GrandPrix	2c22doggeddeterm.jpg	Resource				Blue				1				SPEND: Discard a blue card to cancel a BattleChip.		2C22
+Gaia	GrandPrix	2c23gaia.jpg	Resource		Virus		Blue				4	4			SPEND: Burn a power to prevent your opponent from playing events and BattleChips.		2C23
+Gloomer	GrandPrix	2c24gloomer.jpg	Resource		Virus		Green				3	3			SPEND: Make your opponent take a card from his or her discard pile into hand to draw 2 cards.		2C24
+Guidance	GrandPrix	2c25guidance.jpg	Resource			MegaMan	Blue				4			1x MegaMan	SPEND: Place a blue card from hand in your power gauge. Place this card in your power gauge.		2C25
+Head to Fist	GrandPrix	2c26HTF.jpg	Resource			SnakeMan	Red				2			1x SnakeMan	SPEND: Discard a card and note its destiny. Add that amount to your blast destiny.		2C26
+Headstrong NetNavi	GrandPrix	2c27headstrong.jpg	Resource				Blue				1	3			SPEND: Discard 2 cards to reduce a NetNavi's strength to 0.		2C27
+Hot Ice	GrandPrix	2c28hotice.jpg	Resource			IceMan	Yellow				3	4		1x IceMan	SPEND: Place a resource in its owner's power gauge.		2C28
+It's Electric	GrandPrix	2c29itselectric.jpg	Resource				Yellow				1	2			SPEND: Discard 2 cards to burn 3 of an opponent's power.		2C29
+MegaMan	GrandPrix	2c3megaman2.JPG	NetNavi	BattleMaster		MegaMan		2	3	4							2C3
+Kilby	GrandPrix	2c30kilby.jpg	Resource		Virus		Green				4	4			SPEND: Make your opponent take a card from his or her discard pile into hand to recharge 3 energy.		2C30
+Mettaur	GrandPrix	2c31mettaur.jpg	Resource		Virus		Yellow				4	4			SPEND: Lose 3 energy to burn an opponent's power.		2C31
+More to Come	GrandPrix	2c32MTC.jpg	Resource			SnakeMan	Green				3			1x SnakeMan	SPEND: Discard a card an note its destiny. Take a card of that destiny into hand from your discard pile.		2C32
+Peace	GrandPrix	2c33peace.jpg	Resource				Blue				2				SPEND: Lose 2 energy to make a NetNavi blast +2 until end of next turn.		2C33
+Permanent Results	GrandPrix	2c34PR.jpg	Resource			PharaohMan	Red				2	2		1x PharaohMan	SPEND: Burn a power to make your opponent lose 3 energy.		2C34
+Playing Hooky	GrandPrix	2c35playinghooky.JPG	Resource				Green				3	2			SPEND: Discard 2 cards to take a card into hand from your deck. Shuffle your deck.		2C35
+Playtime	GrandPrix	2c36Playtime.jpg	Resource				Green				3				SPEND: Discard a green card to draw 2 cards.		2C36
+Raise the Temp	GrandPrix	2c37RTT.jpg	Resource				Red				1	2			SPEND: Place a card from your discard pile on top of your deck.		2C37
+Ready, Aim,‚Ä¶	GrandPrix	2c38readyaim.JPG	Resource				Yellow				2	2			SPEND: Discard a card with your NetNavi's emblem to burn 2 of an opponent's power.		2C38
+Roll of Thunder	GrandPrix	2c39Rollofthunder.jpg	Resource				Yellow				3	3			SPEND: Discard a card to blast. This does not count against your blast limit.		2C39
+SnakeMan	GrandPrix	2c4snakeman.jpg	NetNavi	Sly Bandit		SnakeMan		1	3	2							2C4
+Rush	GrandPrix	2c40rush.jpg	Resource	Roll Over	Ally		Green				3	3			SPEND: Place all viruses in play beneath their owners' decks.		2C40
+Shrimpy2	GrandPrix	2c41shrimpy.jpg	Resource		Virus		Blue				2	3			SPEND: Burn a power to add your NetNavi's defense to your blast destiny.		2C41
+Silly	GrandPrix	2c42Silly.JPG	Resource		Virus		Yellow				4	5			SPEND: Lose 3 energy to destroy an opponent's resource.		2C42
+Snowed In	GrandPrix	2c43snowedin.jpg	Resource			IceMan	Green				1			1x IceMan	SPEND: Lose an energy to draw 2 cards.		2C43
+Spikey	GrandPrix	2c44spikey.jpg	Resource		Virus		Red				1				SPEND: Discard a card to play a BattleChip. This does not count against your BattleChip limit.		2C44
+Spin Cycle	GrandPrix	2c45spincycle.jpg	Resource			AirMan	Green				3			1x AirMan	SPEND: Place a card from your power gauge on top of your deck to recharge 2 energy.		2C45
+Talking Smack	GrandPrix	2c46TS.jpg	Resource			ProtoMan	Blue				3			1x ProtoMan	SPEND: Make your ProtoMan blast -1.		2C46
+The Way	GrandPrix	2c47theway.jpg	Resource				Green				2				SPEND: Discard a card with your NetNavi's emblem to recharge 3 energy.		2C47
+Thrill of Anticipation	GrandPrix	2c48ToA.jpg	Resource			MegaMan	Yellow				2			1x MegaMan	SPEND: Discard a yellow card to burn an opponent's power and power up.		2C48
+VulGear	GrandPrix	2c49vulgear.jpg	Resource		Virus		Red				3				SPEND: Discard a card to add 2 to your blast destiny.		2C49
+Boomer1	GrandPrix	2c5boomer1.jpg	BattleChip								1		1x Yellow		Make your NetNavi strength +3.		2C5
+Weepers	GrandPrix	2c50weepers.jpg	Resource				Red				2	3			SPEND: Reveal the top card of your deck. You may play it, even if it is a resource.		2C50
+FastGauge	GrandPrix	2c6fstgauge.jpg	BattleChip								1	2	2x Green		Whenever you lose an energy, you may draw a card.		2C6
+GrabRevenge	GrandPrix	2c7grabrev.jpg	BattleChip								4		1x Blue		Whenever you play an event, you may return a resource to its owner's hand.		2C7
+Guard2	GrandPrix	2c8guard2.jpg	BattleChip								4	3			Discard a blue card to make your NetNavi defense +4.		2C8
+HiCannon	GrandPrix	2c9hicannon.jpg	BattleChip								4	3			Burn a power to make your NetNavi strength +1 for each resource in play.		2C9
+ProtoMan	Promo	2p1protoman2.jpg	NetNavi	Unbeatabale		ProtoMan		3	2	5					Whenever you play a BattleChip, you may add 2 to your blast destiny.		2P1
+Maysa	Promo	2p2maysaSS.jpg	Resource	Staunch Supporter			Blue				3	4			You may have an additional resource in play. SPEND: Place any number of your resources in play (including this one) in your power gauge.		2P2
+Dr. Hikari	Promo	2p3drhikari.jpg	Resource	Paternal Hero			Red				4	4			SPEND: Reveal all cards in your power gauge. You may play one, even if it is a resource.		2P3
+Let's Jam	Promo	2p4letsjam.jpg	Resource				Green				1	3			SPEND: Burn 2 power to draw 5 cards.		2P4
+Flatter Yourself	Promo	2p5flatter.jpg	Resource				Red				1	2			SPEND: Discard a card with your NetNavi's emblem to add 4 to your blast destiny.		2P5
+Anubis	GrandPrix	2r51Anubis.jpg	BattleChip			PharaohMan					3	3	2x Yellow	1x PharaohMan	Discard a PharaohMan card to make your PharaohMan strength +2 for each resource in play.		2R51
+Blizzard	GrandPrix	2r52blizzard.jpg	BattleChip			IceMan					7		2x Yellow	1x IceMan	Discard an IceMan card to make your IceMan strength +2 for each card in your opponent's power gauge.		2R52
+CustomSword	GrandPrix	2r53CustSword.jpg	BattleChip			ProtoMan					3	3	2x Blue	1x ProtoMan	Discard a ProtoMan card to double your ProtoMan's strength.		2R53
+Magnum	GrandPrix	2r54Magnum.jpg	BattleChip								3	4	1x Red		Discard 2 cards and note their destinies. Add their total value to your NetNavi's strength.		2R54
+NeoVariable	GrandPrix	2r55NeoVari.jpg	BattleChip			MegaMan					3		2x Yellow	1x MegaMan	Discard a MegaMan card and burn 2 powernote the higher destiny. Add that amount to MegaMan's strength twice.		2R55
+Snake	GrandPrix	2r56snake.jpg	BattleChip			SnakeMan					5		2x Green	1x SnakeMan	Discard a SnakeMan card to make your SnakeMan defense +3 for each card in hand.		2R56
+Wind	GrandPrix	2r57wind.jpg	BattleChip			AirMan					5		2x Blue	1x AirMan	Discard an AirMan card to make your AirMan blast -1 and strength +6.		2R57
+Always a Competition	GrandPrix	2r58AAC.jpg	Event				Yellow				3		2x Yellow		Spend a yellow resource for no effect to power up 4 times.		2R58
+Burner	GrandPrix	2r59burned.jpg	Event				Red				2		2x Red		Make your opponent lose an energy for each resource in play.		2R59
+Construct a Victory	GrandPrix	2r60CoV.jpg	Event				Green				5		2x Green		Spend a green resource for no effect to draw a card for each card in your opponent's hand.		2R60
+Enlightenment	GrandPrix	2r61enlightenment.JPG	Event				Green				2		2x Green		Choose any cards from your hand, power gauge and resources in play and place them beneath your deck.		2R61
+Friendly Rivals	GrandPrix	2r62FriendlyRivals.jpg	Event			IceMan	Green				1			1x IceMan	Opponent places each card in his or her power gauge beneath his or her deck.		2R62
+Grave Problem	GrandPrix	2r63GraveProblem.jpg	Event				Blue				1		2x Blue		Opponent takes all cards in his or her power gauge into hand.		2R63
+Like Father, Like Son	GrandPrix	2r64lfls.jpg	Event				Blue				4		2x Blue		Return up to 3 resources to their owners'hands.		2R64
+Nose Knows	GrandPrix	2r65noseknows.jpg	Event				Red				5		2x Red		Add 1 to your blast destiny for each resource in play.		2R65
+Unwavering Loyalty	GrandPrix	2r66UnwaveringLoyalty.jpg	Event			MegaMan	Blue				2			1x MegaMan	Discard a card to make your MegaMan blast -2. Place this card in your power gauge.		2R66
+What an Intrusion	GrandPrix	2r67WaI.jpg	Event				Yellow				3		2x Yellow		Place all cards in your hand in your power gauge.		2R67
+A Higher Level	GrandPrix	2r68ahigherlevel.jpg	Resource			ProtoMan	Red				3	4		1x ProtoMan	SPEND: Add 4 to your blast destiny.		2R68
+Bring It On	GrandPrix	2r69Bringiton.jpg	Resource			ProtoMan	Blue				4			1x ProtoMan	SPEND: Reduce your ProtoMan's strength by any amount (to a minimum of 0) to reduce his blast by that amount.		2R69
+Falling Object	GrandPrix	2r70FO.jpg	Resource			PharaohMan	Red				2			1x PharaohMan	SPEND: Burn a power to place 2 cards from your discard pile on top of your deck.		2R70
+Full of Hot Air	GrandPrix	2r71foha.jpg	Resource			AirMan	Green				5	2		1x AirMan	SPEND: Place this card on top of your deck.		2R71
+Glide	GrandPrix	2r72Glide.JPG	Resource	At Your Service	Ally		Green				1	5			SPEND: Take a card from your deck into hand. Shuffle your deck.		2R72
+Keep Battling	GrandPrix	2r73keepbattling.jpg	Resource			SnakeMan	Green				3	3		1x SnakeMan	SPEND: If you have no cards in hand, burn a power to draw 4 cards.		2R73
+MegaMan	GrandPrix	2r74megamanally.jpg	Resource	Licensed to Delete	Ally		Red				1	4			SPEND: Make your opponent lose 3 energy.		2R74
+Petrify	GrandPrix	2r75Petrify.jpg	Resource			PharaohMan	Yellow				2	2		1x PharaohMan	SPEND: Burn 3 power to burn all of your opponent's power.		2R75
+ProtoMan	GrandPrix	2r76protomanally.jpg	Resource	Controlled Fury	Ally		Blue				1	4			SPEND: Make your opponent place each card in hand in his or her power gauge.		2R76
+Roll	GrandPrix	2r77Rollally.JPG	Resource	Downtown Chaperone	Ally		Yellow				1	4			SPEND: Power up twice for each other ally you have in play.		2R77
+Correction	GrandPrix	2sr82correction.jpg	Event				Blue				5		3x Blue		Opponent discards down to 1 card.		2SR82
+Owe You One	GrandPrix	2sr83oyo.jpg	Event				Green				5		3x Green		Opponent draws 3 cards and you recharge 3 energy.		2SR83
+Ultimate Sacrifice	GrandPrix	2sr84US.jpg	Event				Yellow				5		3x Yellow		Destroy all resources, burn all power and discard all hands.		2SR84
+Unbelievable!	GrandPrix	2sr85unbelievable.jpg	Event				Red				5		3x Red		Place all BattleChips in your discard pile on top of your deck.		2SR85
+Arashi	GrandPrix	2sr86arashi.jpg	Resource	Wide Open	NetOp	AirMan	Blue				4	4		1x AirMan	Your AirMan is blast -1 for each of your other AirMan cards in play.		2SR86
+Chaud	GrandPrix	2sr87chaud.jpg	Resource	Smooth Operator	NetOp	ProtoMan	Red				4	4		1x ProtoMan	Your ProtoMan is defense +1 for each of your other ProtoMan cards in play.		2SR87
+Lan	GrandPrix	2sr88LanHS.jpg	Resource	Hot Shot	NetOp	MegaMan	Blue				2	3		1x MegaMan	Your power gauge has one additional position for each of your MegaMan cards in play.		2SR88
+Ms. Millionaire	GrandPrix	2sr89ms.jpg	Resource	Politely Evil	NetOp	SnakeMan	Green				2	3		1x SnakeMan	Your SnakeMan is strength +1 for each of your other SnakeMan cards in play.		2SR89
+Sacred Kingdom	GrandPrix	2sr90SacredKingdom.jpg	Resource			PharaohMan	Yellow				5	5		1x PharaohMan	Whenever you are about to lose an energy during battle, you may power up instead. You may only do this once each turn for each of your other PharaohMan cards in play.		2SR90
+Tory	GrandPrix	2sr91Tory.jpg	Resource	Rookie NetOp	NetOp	IceMan	Yellow				3	4		1x IceMan	Whenever you blast, you may place a card from hand in your power gauge for each of your other IceMan cards in play.		2SR91
+PharaohMan	GrandPrix	2st78pharaohman.jpg	NetNavi	Ultimate NetNavi		PharaohMan		3	2	4							2St78
+ProtoMan	GrandPrix	2st79Protoman1.JPG	NetNavi	GrandPrix Champ		ProtoMan		3	1	2							2St79
+Open the Door	GrandPrix	2st80OtD.jpg	Resource				Red				3	4			SPEND: If you played a BattleChip this turn, add its destiny to your blast destiny.		2St80
+Virtual Martyr	GrandPrix	2st81VM.jpg	Resource				Blue				3	4			SPEND: Make a NetNavi blast -1 until end of next turn. Place this card in your power gauge.		2St81
+All Natural	GrandPrix	2ur100allnatural.jpg	Resource			IceMan	Green				3	4		1x IceMan	SPEND: Burn 5 power to reveal all cards in your opponent's power gauge and note the total of their destinies. Recharge that much energy.		2UR100
+Glow, Baby, Glow	GrandPrix	2ur101GBG.jpg	Resource			MegaMan	Yellow				5	4		1x MegaMan	SPEND: Discard 3 cards to power up 5 times.		2UR101
+BoysBomb3	GrandPrix	2ur92BB3.jpg	BattleChip								5	4	3x Yellow		Lose 2 energy to make your NetNavi strength +3 for each card in your power gauge.		2UR92
+DoublePoint	GrandPrix	2ur93doublepoint.jpg	BattleChip								5	4			Burn 2 power to make your NetNavi strength +2 for each BattleChip you play this turn (including this one). You may play another BattleChip.		2UR93
+Geddon3	GrandPrix	2ur94geddon3.jpg	BattleChip								5	5	1x Green		Burn 3 power to make your NetNavi strength +2 for each card in your hand and your opponent's hand.		2UR94
+Recovery200	GrandPrix	2ur95recov200.jpg	BattleChip								5	3			Discard 4 cards of the same color to make your NetNavi defense +10.		2UR95
+Blown Away	GrandPrix	2ur96BlownAway.jpg	Event			AirMan	Blue				2			1x AirMan	Lose 1 energy for each point of your AirMan's blast and note each destiny. Opponent reveals his or her hand and discards each card with any of those destinies.		2UR96
+Collect 'Em All	GrandPrix	2ur97CEA.jpg	Event			SnakeMan	Red				6			1x SnakeMan	Discard 2 cards to make your opponent lose 1 energy for each point of his or her blast destiny.		2UR97
+Dark Admonition	GrandPrix	2ur98DarkAdmon.jpg	Event			ProtoMan	Red				3			1x ProtoMan	Lose 2 energy for each point of strength your ProtoMan has to make your opponent lose 5 energy.		2UR98
+Liberation	GrandPrix	2ur99liberation.jpg	Event			PharaohMan	Red				3			3x PharaohMan	Whenever you burn a power, you make add 3 to your blast destiny.		2UR99
+The Oath	Promo	3-1theoath.jpg	Resource				Blue				0	2			SPEND: Burn a power to cancel a blast destiny.		3*1
+MagnetMan	Grave	3c1Magnetman.JPG	NetNavi	Polarized		MagnetMan		4	0	3					Whenever you blast, you may recharge 2 energy.		3C1
+No Joke	Grave	3c10nojoke.jpg	Event				Yellow				5		1x Yellow		Opponent powers up twice.		3C10
+Wrap It Up	Grave	3c11WIU.jpg	Event				Red				2				Add 3 to your blast destiny.		3C11
+Backed Up	Grave	3c12backedup.jpg	Resource			WoodMan	Red				1			1x WoodMan	SPEND: Return this resource to your hand.		3C12
+BomBoy	Grave	3c13bomboy.jpg	Resource		Virus		Red				3	4			SPEND: Discard a card to reduce a NetNavi's defense to 0.	(Viruses are not unique. Whenever you play a virus, you may play another copy of that virus from your deck, then shuffle your deck.)	3C13
+Carb Craving	Grave	3c14CarbCraving.jpg	Resource				Yellow				5	3			SPEND: Discard 2 cards to power up three times.		3C14
+Doubting Navi	Grave	3c15DN.jpg	Resource				Yellow				2				SPEND: Discard a card to burn an opponent's power.		3C15
+Eliminate	Grave	3c16eliminate.jpg	Resource				Blue				2	3			SPEND: Return this resource or a resource in play to its owner's hand.		3C16
+Envious Evil	Grave	3c17EE.jpg	Resource				Red				5				SPEND: Lose 1 energy.		3C17
+Firm Barrier	Grave	3c18firmbarrier.jpg	Resource				Red				2				SPEND: Discard a card to make your NetNavi defense +2.		3C18
+Gender Differences	Grave	3c19GD.jpg	Resource				Green				1	3			SPEND: Lose 2 energy to take a card from your discard pile into hand.		3C19
+ShadowMan	Grave	3c2shadowman.jpg	NetNavi	Dark Ninja		ShadowMan		1	2	2					Whenever you blast, you may return up to 2 resources to their owners' hands.		3C2
+Giving It Away	Grave	3c20GIA.jpg	Resource				Green				4				SPEND: Discard 2 cards to recharge 3 energy.		3C20
+Interconnected	Grave	3c21interconnected.jpg	Resource			Bass	Yellow				3	3		1x Bass	SPEND: Discard a card to blast. This does not count against your blast limit.		3C21
+Just a Nuisance	Grave	3c22JaN.jpg	Resource				Blue				3				SPEND: Discard a card and note its color. Cancel a blast destiny of that color.		3C22
+Lark	Grave	3c23lark.jpg	Resource		Virus		Blue				0	3			SPEND: Burn a power to make your opponent discard a card.	(Viruses are not unique. Whenever you play a virus, you may play another copy of that virus from your deck, then shuffle your deck.)	3C23
+MagTect	Grave	3c24magtect.jpg	Resource		Virus		Yellow				3	4			SPEND: Lose 3 energy to place a card from your discard pile in your power gauge.	(Viruses are not unique. Whenever you play a virus, you may play another copy of that virus from your deck, then shuffle your deck.)	3C24
+No More Practice	Grave	3c25NMP.jpg	Resource				Yellow				3	2			SPEND: Discard a yellow card to blast an additional time.		3C25
+One to Talk	Grave	3c26OtT.jpg	Resource				Red				3	3			SPEND: Place a card from your discard pile on top of your deck.		3C26
+Requital	Grave	3c27Requital.jpg	Resource			SharkMan	Blue				1	3		1x SharkMan	SPEND: If you played a BattleChip this turn, place 2 cards from hand in your power gauge.		3C27
+Shadow Boss	Grave	3c28shadowboss.jpg	Resource			ShadowMan	Red				1			1x ShadowMan	SPEND: Discard a card to make your opponent lose 1 energy for each card in his or her hand over 2.		3C28
+Spidy	Grave	3c29spidy.jpg	Resource		Virus		Green				2	4			SPEND: Make your opponent draw a card.	(Viruses are not unique. Whenever you play a virus, you may play another copy of that virus from your deck, then shuffle your deck.)	3C29
+SkullMan	Grave	3c3skullman.jpg	NetNavi	Skeletal Agent		SkullMan		2	1	2					Whenever you blast, you may place your resource in play in your power gauge.		3C3
+Stuck in Place	Grave	3c30SiP.jpg	Resource			MagnetMan	Yellow				1			1x MagnetMan	SPEND: Discard a card to power up once for each resource you have in play.		3C30
+Surprise Transfer	Grave	3c31surprisetransfer.jpg	Resource				Blue				4	2			SPEND: Lose 2 energy to place a card from hand in your power gauge.		3C31
+Sweet Indignation	Grave	3c32SweetIndignation.jpg	Resource				Green				3	4			SPEND: Burn a power to take a card from your deck into hand. Shuffle your deck.		3C32
+Watch Out	Grave	3c33watchout.jpg	Resource			SkullMan	Yellow				0			1x SkullMan	SPEND: Power up.		3C33
+WoodMan	Grave	3c4Woodman.jpg	NetNavi	Natural Leader		WoodMan		3	3	0							3C4
+Recovery10	Grave	3c5Recov10.JPG	BattleChip								4				Make your opponent take 2 random card from his or her discard pile into hand to make your NetNavi defense +2.		3C5
+Vulcan3	Grave	3c6Vulcan3.JPG	BattleChip								2	4			Make your NetNavi strength +4.		3C6
+WhiteWeb2	Grave	3c7WW2.jpg	BattleChip								5		1x Green		Opponent cannot draw cards.		3C7
+Fortified	Grave	3c8fortified.jpg	Event				Green				2		1x Green		Recharge 2 energy.		3C8
+Like You Mean It	Grave	3c9LYMI.jpg	Event				Blue				2		1x Blue		Opponent discards a card.		3C9
+MegaMan X	Promo	3p1mmx.jpg	NetNavi	Invincible		MegaMan X		3	1	2							3P1
+MegaMan X	Promo	3p1MMXP.jpg	NetNavi	Invincible		MegaMan X		3	1	2					Free Mega Man X Command Mission passcodes at megamantcg.com		3P1
+AquaCustom Activate!	Promo	3P2.jpg	Event		Style Change		Blue				3		4x Blue		Spend 4 blue resources for no effect to reveal your opponent's hand. Add the number of resources revealed to your NetNavi's strength and defense for the rest of the game.		3P2
+WoodShield Activate!	Promo	3P4.png	Event		Style Change		Green				1		4x Green		Place all of your resources, cards in hand, and cards in your power gauge on the bottom of your deck. Recharge 2 energy for each card placed there.		3P4
+HeatGuts Activate!	Promo	3P5.jpg	Event		Style Change		Red				5		2x Red		Look at the cards in your power gauge. You may play each of them this main phase, even if it is a resource. Burn all of your remaining power at the end of turn.		3P5
+Beginning to Learn	Grave	3r62BTL.jpg	Event				Yellow				5		3x Yellow		For each card your opponent drew this turn, he or she spends a resource for no effect.		3R62
+Bow Down	Grave	3r63bowdown.jpg	Event			ShadowMan	Red				4			2x ShadowMan	Name a destiny and reveal your opponent's hand. For each revealed card with that destiny, your opponent loses 2 energy.		3R63
+Cutting Edge	Grave	3r64cuttingedge.jpg	Event				Red				5		2x Red		Opponent loses an energy for each card fewer than 5 in his or her hand.		3R64
+Eerie Blast	Grave	3r65EerieBlast.jpg	Event			SkullMan	Yellow				5			2x SkullMan	Reveal the cards in your power gauge. If their total destiny is greater than 15, opponent places his or her hand in his or her power gauge.		3R65
+Modest Defense	Grave	3r66Modestdefense.jpg	Event				Blue				4		1x Blue		Opponent reveals his or her hand. Place a revealed BattleChip in your opponent's discard pile.		3R66
+Opposites Attract	Grave	3r67oppatr.jpg	Event			MagnetMan	Green				3			3x MagnetMan	Whenever you lose energy during battle, take the lost cards into hand.		3R67
+Out of Water	Grave	3r68OutofWater.jpg	Event			SharkMan	Blue				4	2		1x SharkMan	Play any number of resources.		3R68
+Pay a Price	Grave	3r69Payaprice.jpg	Event				Blue				4		2x Blue		Opponent discards a card for each resource he or she spent this turn.		3R69
+Unlikely Source	Grave	3r70unlikely.jpg	Event				Yellow				3		1x Yellow		Discard a BattleChip to make your opponent blast, if possible. Place this card in your power gauge.		3R70
+Your Apologies	Grave	3r71Yourapologies.jpg	Event				Green				4		2x Green		Opponent draws 2 cards for each point of energy he or she has lost this turn.		3R71
+At Fault	Grave	3r72atfault.jpg	Resource			Bass	Yellow				2		1x Yellow		SPEND: Search your opponent's deck and place a card there in his or her discard pile.		3R72
+Flawless	Grave	3r73flawless.jpg	Resource			Bass	Red				1			1x Bass	SPEND: Place a card from your discard pile on top of your deck.		3R73
+GutsMan	Grave	3r74Gutsmanally.jpg	Resource	Full Out Battler	Ally		Red				1	4			SPEND: Make your blast destiny +4.		3R74
+SharkMan	Grave	3r75Sharkmanally.jpg	Resource	Fishy Agent	Ally		Blue				1	4			SPEND: Cancel a BattleChip.		3R75
+SkullMan	Grave	3r76Skullmanally.jpg	Resource	Friendly Ghoul	Ally		Yellow				1	4			SPEND: Place a resource in play in its owner's power gauge.		3R76
+Surprisingly Sharp	Grave	3r77SurSha.jpg	Resource			SharkMan	Green				1			1x SharkMan	SPEND: If you played a BattleChip this turn, draw 2 cards.		3R77
+Viperous Vines	Grave	3r78ViperousVines.jpg	Resource			WoodMan	Green				1			1x WoodMan	SPEND: Lose 2 energy to take a card from your discard pileinto hand.		3R78
+WoodMan	Grave	3r79Woodmanally.jpg	Resource	Outdoorsy	Ally		Green				1	4			SPEND: Take a card from your discard pile into hand.		3R79
+AquaCustom	Grave	3sr84AquaCustom.jpg	Resource		Style Change		Blue				2	2	2x Blue		Whenever a player spends a Blue resource, you may make your opponent discard a card.		3SR84
+ElecTeam	Grave	3sr85Electeam.jpg	Resource		Style Change		Yellow				4		1x Yellow		During each of your draw phases, if the only resources in play are yellow, you may power up an additional time.		3SR85
+Grave VirusBeast	Grave	3sr86GVB.jpg	Resource			Bass	Yellow				4	4		1x Bass	Whenever you play another Bass card, you may burn an opponent's power.		3SR86
+HeatGuts	Grave	3sr87heatguts.jpg	Resource		Style Change		Red				0		1x Red		For each other red resource in play, your NetNavi's blast destinies are each +1.		3SR87
+Kid Grave	Grave	3sr88Kidgrave.jpg	Resource	Just a Puppet		ShadowMan	Red				4	4		1x ShadowMan	Whenever you play another ShadowMan card, you may make your opponent lose 1 energy for each resource he or she has in play.		3SR88
+Maysa	Grave	3sr89Maysa.jpg	Resource	Commander Beef	NetOp	SharkMan	Blue				2	3		1x SharkMan	Whenever you play another SharkMan card, you may take a card from your power gauge into hand.		3SR89
+Miyu	Grave	3sr90miyu.jpg	Resource	Misteriyu	NetOp	SkullMan	Yellow				0	3		1x SkullMan	Whenever you play another SkullMan card, you may place a resource from your discard pile in your power gauge.		3SR90
+Mr. Gauss	Grave	3sr91mrGauss.jpg	Resource	Devious Investor	NetOp	MagnetMan	Yellow				2	3		1x MagnetMan	Whenever you play another MagnetMan card, you may power up.		3SR91
+Sal	Grave	3sr92Sal.jpg	Resource	Black Rose	NetOp	WoodMan	Green				1	4		1x WoodMan	Whenever you play another WoodMan card, you may take a BattleChip from your discard pile into hand.		3SR92
+WoodShield	Grave	3sr93Woodshield.jpg	Resource		Style Change		Green				2		1x Green		The first time each turn you draw a card, reveal it. If that card is Green, draw another card.		3SR93
+Bass	Grave	3st80Bass.jpg	NetNavi	Ultimate Reborn		Bass		3	1	2							3St80
+SharkMan	Grave	3st81Sharkman.jpg	NetNavi	Aquatic Enforcer		SharkMan		2	2	2							3St81
+Deletion Inevitable	Grave	3st82DeletionInevitable.jpg	Event				Red				4		1x Red		Discard a BattleChip to make your opponent lose 4 energy.		3St82
+No Alternatives	Grave	3st83NoAlternatives.jpg	Event				Green				4		1x Green		Discard a BattleChip to replace each card in your opponent's power gauge with a card from his or her discard pile. Place the replaced cards in your opponent's discard pile.		3St83
+AirHockey3	Grave	3u34air3.jpg	BattleChip								3	5	1x Blue, 1x Green		Make your NetNavi strength +2 for each card you have in hand more than your opponent has in hand.		3U34
+BigHammer3	Grave	3u36BH3.jpg	BattleChip								5	3	2x Red		Whenever you blast, you may add 4 to your blast destiny		3U36
+BugBomb	Grave	3u37bugbomb.jpg	BattleChip								6		2x Blue		Opponent cannot play events or BattleChips. Place this card in your power gauge.		3U37
+CircleGun1	Grave	3u39CG1.jpg	BattleChip								4		2x Red		Make your NetNavi strength +1 for each card in your hand. Place this card on top of your deck.		3U39
+GunDelSol2	Grave	3u41GDS2.jpg	BattleChip								5	4	2x Red		Make your NetNavi defense +6.		3U41
+Mine	Grave	3u43mine.jpg	BattleChip								4	2			Make your NetNavi strength +2 for each virus your opponent has in play.		3U43
+Sanctuary	Grave	3u45Sanctuary.jpg	BattleChip								3	4	2x Green		Whenever you burn an opponent's power, you may recharge 4 energy.		3U45
+Evolution	Grave	3u47Evolution.jpg	Event				Blue				3		1x Blue		If you have exactly 2 cards in hand, place both of them in your power gauge.		3U47
+Frozen Out	Grave	3u48FrozenOut.jpg	Event				Green				5		1x Green		If you have exactly 3 cards in hand, lose an energy to take a card from your discard pile into hand.		3U48
+Guarding Solo	Grave	3u49GS.jpg	Event				Red				3		1x Red		If you have no cards in hand, make your NetNavi defense +3.		3U49
+Quite Confident	Grave	3u50QC.jpg	Event				Yellow				3		1x Yellow		If you have exactly 1 card in hand, power up twice.		3U50
+Connection Interrupted	Grave	3u51ConnectionInterrupted.jpg	Resource				Blue				2	3			SPEND: Burn a power and name a color. For each resource your opponent has in play of that color, he or she discards a card.		3U51
+Food Education	Grave	3u52FE.jpg	Resource				Green				0	3			SPEND: Lose 3 energy to draw 3 cards.		3U52
+Guardian of the Forest	Grave	3u53GotF.jpg	Resource				Green				3	4			SPEND: Burn a power and name a color. Recharge 2 energy for each resource of that color your opponent has in play.		3U53
+Hidden Force	Grave	3u54HiddenForce.jpg	Resource				Yellow				2	3			SPEND: Burn a power and name a color. Destroy all but one of your opponent's resources of that color.		3U54
+MegaModification	Grave	3u55megamod.jpg	Resource				Yellow				2	3			SPEND: Discard a yellow card to place 2 cards from your discard pile in your power gauge.		3U55
+Mission of Defeat	Grave	3u56MoD.jpg	Resource			ShadowMan	Blue				2	2		1x ShadowMan	SPEND: Whenever you spend another resource this turn, you may place it in your power gauge.		3U56
+Mystical	Grave	3u57mystical.jpg	Resource			SkullMan	Blue				5	4		1x SkullMan	SPEND: Opponent cannot play events and BattleChips until end of next turn.		3U57
+Pulls You In	Grave	3u58PYI.jpg	Resource			MagnetMan	Green				1	3		1x MagnetMan	SPEND: Discard a card to recharge 4 energy.		3U58
+Set to Win	Grave	3u59Settowin.jpg	Resource				Red				0	4			SPEND: If you played a BattleChip this turn, add 5 to your blast destiny.		3U59
+Timber Terror	Grave	3u60TimberTerror.jpg	Resource			WoodMan	Green				1			1x WoodMan	SPEND: Make your hand size +2 until end of your next turn.		3U60
+Usual Policy	Grave	3u61UP.jpg	Resource				Red				0	3			SPEND: Burn a power and name a color. Opponent loses 2 energy for each resource of that color he or she has in play.		3U61
+Fish at Hand	Grave	3ur100FaH.jpg	Resource			SharkMan	Green				5	4		1x SharkMan	SPEND: Burn 3 power to recharge an energy for each resource in play and each card in your hand.		3UR100
+Helping Out	Grave	3ur101HelpingOut.jpg	Resource			SkullMan	Blue				5	3		1x SkullMan	SPEND: Burn a power to cancel a BattleChip.		3UR101
+Immobilize Force	Grave	3ur102IF.jpg	Resource			ShadowMan	Blue				5	4		1x ShadowMan	SPEND: Discard a card to make your opponent take all cards in his or her power gauge into hand.		3UR102
+Memory Scan Complete	Grave	3ur103MSC.jpg	Resource			Bass	Red				4	4		1x Bass	SPEND: Lose an energy and addits destiny to each of yourblast destinies.		3UR103
+AquaUpper3	Grave	3ur94AU3.jpg	BattleChip								5	4	2x Blue		Burn 4 power. Each time a player spends a resource, you may make your NetNavi strength +4.		3UR94
+ElecShock	Grave	3ur95elecshock.jpg	BattleChip								3	5	2x Yellow		Burn 5 power and note the total of the destinies of all resources in play. Add that amount to your NetNavi's strength.		3UR95
+Meteors1	Grave	3ur96meteors.jpg	BattleChip								2		2x Red		You may play up to 2 additional BattleChips. At the end of turn, if in your discard pile, return each to hand.		3UR96
+RollArrow3	Grave	3ur97RA3.jpg	BattleChip								5	4	2x Green		Burn 2 power to reveal 3 random cards from your opponent's hand. Add the total of their destinies to your NetNavi's strength.		3UR97
+Branched Out	Grave	3ur98BranchedOut.jpg	Resource			WoodMan	Red				1	4		2x WoodMan	SPEND: Discard any number of cards. For each card discarded, make your WoodMan strength +2 and your opponent lose 1 energy.		3UR98
+Drawn to It	Grave	3ur99DTI.jpg	Resource			MagnetMan	Yellow				4			1x MagnetMan	SPEND: Discard 2 cards to place 2 cards from your discard pile in your power gauge.		3UR99
+BambooLance	Grave	4u35bamboolance.jpg	BattleChip			WoodMan					1		1x Green	2x WoodMan	Return any number of cards in your power gauge to hand. Make your WoodMan strength +1 for each card in your hand.		4U35
+BugCharge	Grave	4u38bugcharge.jpg	BattleChip			Bass					5	3	1x Red	2x Bass	Discard a card to make your Bass defense +2 for each card in your power gauge.		4U38
+Geyser	Grave	4u40geyser.jpg	BattleChip			SharkMan					5	3	1x Blue	2x SharkMan	Return any number of your resources in play to hand. Make your SharkMan strength +3 for each resource returned.		4U40
+MagBolt3	Grave	4u42MB3.jpg	BattleChip			MagnetMan					5	4	1x Yellow	2x MagnetMan	Opponent may spend any number of resources for no effect. Then make your MagnetMan strength +3 for resource he or she has in play.		4U42
+Muramasa	Grave	4u44muramasa.jpg	BattleChip			ShadowMan					3	3	1x Blue	2x ShadowMan	Opponent may discard any number of cards. Then make your ShadowMan strength +2 for each card in your opponent's hand.		4U44
+VoodooDoll	Grave	4u46voodoo.jpg	BattleChip			SkullMan					3	3	1x Yellow	2x SkullMan	Burn 3 power to make your Skull-Man strength +2 for each resource your opponent has in play and each card in his or her power gauge.		4U46

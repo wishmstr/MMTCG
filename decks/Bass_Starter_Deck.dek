@@ -1,0 +1,69 @@
+<deck version="0.8">
+	<meta>
+		<game>MMTCG</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="1c48focus.jpg">Focus</name><set>PowerUp</set></card>
+		<card><name id="1c48focus.jpg">Focus</name><set>PowerUp</set></card>
+		<card><name id="1c48focus.jpg">Focus</name><set>PowerUp</set></card>
+		<card><name id="3c26OtT.jpg">One to Talk</name><set>Grave</set></card>
+		<card><name id="3c26OtT.jpg">One to Talk</name><set>Grave</set></card>
+		<card><name id="3c26OtT.jpg">One to Talk</name><set>Grave</set></card>
+		<card><name id="3c14CarbCraving.jpg">Carb Craving</name><set>Grave</set></card>
+		<card><name id="3c14CarbCraving.jpg">Carb Craving</name><set>Grave</set></card>
+		<card><name id="3c14CarbCraving.jpg">Carb Craving</name><set>Grave</set></card>
+		<card><name id="3r72atfault.jpg">At Fault</name><set>Grave</set></card>
+		<card><name id="3r73flawless.jpg">Flawless</name><set>Grave</set></card>
+		<card><name id="3c21interconnected.jpg">Interconnected</name><set>Grave</set></card>
+		<card><name id="3c21interconnected.jpg">Interconnected</name><set>Grave</set></card>
+		<card><name id="3c21interconnected.jpg">Interconnected</name><set>Grave</set></card>
+		<card><name id="3c18firmbarrier.jpg">Firm Barrier</name><set>Grave</set></card>
+		<card><name id="3c18firmbarrier.jpg">Firm Barrier</name><set>Grave</set></card>
+		<card><name id="3c18firmbarrier.jpg">Firm Barrier</name><set>Grave</set></card>
+		<card><name id="3u59Settowin.jpg">Set to Win</name><set>Grave</set></card>
+		<card><name id="3u59Settowin.jpg">Set to Win</name><set>Grave</set></card>
+		<card><name id="3u59Settowin.jpg">Set to Win</name><set>Grave</set></card>
+		<card><name id="1c61readyforbattle.jpg">Ready For Battle</name><set>PowerUp</set></card>
+		<card><name id="1c61readyforbattle.jpg">Ready For Battle</name><set>PowerUp</set></card>
+		<card><name id="1c61readyforbattle.jpg">Ready For Battle</name><set>PowerUp</set></card>
+		<card><name id="3c17EE.jpg">Envious Evil</name><set>Grave</set></card>
+		<card><name id="3c17EE.jpg">Envious Evil</name><set>Grave</set></card>
+		<card><name id="3c17EE.jpg">Envious Evil</name><set>Grave</set></card>
+		<card><name id="3u61UP.jpg">Usual Policy</name><set>Grave</set></card>
+		<card><name id="3u61UP.jpg">Usual Policy</name><set>Grave</set></card>
+		<card><name id="3u61UP.jpg">Usual Policy</name><set>Grave</set></card>
+		<card><name id="2c14chipjunkie.jpg">Chip Junkie</name><set>GrandPrix</set></card>
+		<card><name id="2c14chipjunkie.jpg">Chip Junkie</name><set>GrandPrix</set></card>
+		<card><name id="2c14chipjunkie.jpg">Chip Junkie</name><set>GrandPrix</set></card>
+		<card><name id="3c11WIU.jpg">Wrap It Up</name><set>Grave</set></card>
+		<card><name id="3c11WIU.jpg">Wrap It Up</name><set>Grave</set></card>
+		<card><name id="3c11WIU.jpg">Wrap It Up</name><set>Grave</set></card>
+		<card><name id="3st82DeletionInevitable.jpg">Deletion Inevitable</name><set>Grave</set></card>
+		<card><name id="3st82DeletionInevitable.jpg">Deletion Inevitable</name><set>Grave</set></card>
+		<card><name id="3u50QC.jpg">Quite Confident</name><set>Grave</set></card>
+		<card><name id="3u50QC.jpg">Quite Confident</name><set>Grave</set></card>
+		<card><name id="1c9boomer2.jpg">Boomer2</name><set>PowerUp</set></card>
+		<card><name id="1c9boomer2.jpg">Boomer2</name><set>PowerUp</set></card>
+		<card><name id="1c9boomer2.jpg">Boomer2</name><set>PowerUp</set></card>
+		<card><name id="2c5boomer1.jpg">Boomer1</name><set>GrandPrix</set></card>
+		<card><name id="2c5boomer1.jpg">Boomer1</name><set>GrandPrix</set></card>
+		<card><name id="2c5boomer1.jpg">Boomer1</name><set>GrandPrix</set></card>
+		<card><name id="2c9hicannon.jpg">HiCannon</name><set>GrandPrix</set></card>
+		<card><name id="2c9hicannon.jpg">HiCannon</name><set>GrandPrix</set></card>
+		<card><name id="2c9hicannon.jpg">HiCannon</name><set>GrandPrix</set></card>
+		<card><name id="1c8Areasteal.jpg">AreaSteal</name><set>PowerUp</set></card>
+		<card><name id="1c8Areasteal.jpg">AreaSteal</name><set>PowerUp</set></card>
+		<card><name id="3c6Vulcan3.JPG">Vulcan3</name><set>Grave</set></card>
+		<card><name id="3c6Vulcan3.JPG">Vulcan3</name><set>Grave</set></card>
+		<card><name id="3c6Vulcan3.JPG">Vulcan3</name><set>Grave</set></card>
+		<card><name id="1c14laserblast.jpg">LaserBlast</name><set>PowerUp</set></card>
+		<card><name id="1c14laserblast.jpg">LaserBlast</name><set>PowerUp</set></card>
+		<card><name id="1c14laserblast.jpg">LaserBlast</name><set>PowerUp</set></card>
+		<card><name id="2c12Vulcan2.jpg">Vulcan2</name><set>GrandPrix</set></card>
+		<card><name id="2c12Vulcan2.jpg">Vulcan2</name><set>GrandPrix</set></card>
+		<card><name id="2c12Vulcan2.jpg">Vulcan2</name><set>GrandPrix</set></card>
+	</superzone>
+	<superzone name="NetNavi">
+		<card><name id="3st80Bass.jpg">Bass</name><set>Grave</set></card>
+	</superzone>
+</deck>

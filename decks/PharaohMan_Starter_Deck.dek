@@ -1,0 +1,69 @@
+<deck version="0.8">
+	<meta>
+		<game>MMTCG</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="1c72winninghand.jpg">Winning Hand</name><set>PowerUp</set></card>
+		<card><name id="1c72winninghand.jpg">Winning Hand</name><set>PowerUp</set></card>
+		<card><name id="1c73WOpp.jpg">Worthy Opponent</name><set>PowerUp</set></card>
+		<card><name id="1c73WOpp.jpg">Worthy Opponent</name><set>PowerUp</set></card>
+		<card><name id="2c50weepers.jpg">Weepers</name><set>GrandPrix</set></card>
+		<card><name id="2c50weepers.jpg">Weepers</name><set>GrandPrix</set></card>
+		<card><name id="2c50weepers.jpg">Weepers</name><set>GrandPrix</set></card>
+		<card><name id="2c21CEO.jpg">Clean &apos;Em Out</name><set>GrandPrix</set></card>
+		<card><name id="2c21CEO.jpg">Clean &apos;Em Out</name><set>GrandPrix</set></card>
+		<card><name id="2c21CEO.jpg">Clean &apos;Em Out</name><set>GrandPrix</set></card>
+		<card><name id="1c48focus.jpg">Focus</name><set>PowerUp</set></card>
+		<card><name id="1c48focus.jpg">Focus</name><set>PowerUp</set></card>
+		<card><name id="1c48focus.jpg">Focus</name><set>PowerUp</set></card>
+		<card><name id="1c48focus.jpg">Focus</name><set>PowerUp</set></card>
+		<card><name id="2st80OtD.jpg">Open the Door</name><set>GrandPrix</set></card>
+		<card><name id="2st80OtD.jpg">Open the Door</name><set>GrandPrix</set></card>
+		<card><name id="2c34PR.jpg">Permanent Results</name><set>GrandPrix</set></card>
+		<card><name id="2c34PR.jpg">Permanent Results</name><set>GrandPrix</set></card>
+		<card><name id="2c34PR.jpg">Permanent Results</name><set>GrandPrix</set></card>
+		<card><name id="1c61readyforbattle.jpg">Ready For Battle</name><set>PowerUp</set></card>
+		<card><name id="1c61readyforbattle.jpg">Ready For Battle</name><set>PowerUp</set></card>
+		<card><name id="1c61readyforbattle.jpg">Ready For Battle</name><set>PowerUp</set></card>
+		<card><name id="2c29itselectric.jpg">It&apos;s Electric</name><set>GrandPrix</set></card>
+		<card><name id="2c29itselectric.jpg">It&apos;s Electric</name><set>GrandPrix</set></card>
+		<card><name id="2c37RTT.jpg">Raise the Temp</name><set>GrandPrix</set></card>
+		<card><name id="2c37RTT.jpg">Raise the Temp</name><set>GrandPrix</set></card>
+		<card><name id="2c37RTT.jpg">Raise the Temp</name><set>GrandPrix</set></card>
+		<card><name id="2r70FO.jpg">Falling Object</name><set>GrandPrix</set></card>
+		<card><name id="2r75Petrify.jpg">Petrify</name><set>GrandPrix</set></card>
+		<card><name id="2c20ChargeForward.jpg">Charge Forward</name><set>GrandPrix</set></card>
+		<card><name id="2c20ChargeForward.jpg">Charge Forward</name><set>GrandPrix</set></card>
+		<card><name id="2c20ChargeForward.jpg">Charge Forward</name><set>GrandPrix</set></card>
+		<card><name id="1c23FI.jpg">Fish Intervention</name><set>PowerUp</set></card>
+		<card><name id="1c23FI.jpg">Fish Intervention</name><set>PowerUp</set></card>
+		<card><name id="1c23FI.jpg">Fish Intervention</name><set>PowerUp</set></card>
+		<card><name id="1c23FI.jpg">Fish Intervention</name><set>PowerUp</set></card>
+		<card><name id="2c14chipjunkie.jpg">Chip Junkie</name><set>GrandPrix</set></card>
+		<card><name id="2c14chipjunkie.jpg">Chip Junkie</name><set>GrandPrix</set></card>
+		<card><name id="2c14chipjunkie.jpg">Chip Junkie</name><set>GrandPrix</set></card>
+		<card><name id="2c5boomer1.jpg">Boomer1</name><set>GrandPrix</set></card>
+		<card><name id="2c5boomer1.jpg">Boomer1</name><set>GrandPrix</set></card>
+		<card><name id="2c5boomer1.jpg">Boomer1</name><set>GrandPrix</set></card>
+		<card><name id="1c8Areasteal.jpg">AreaSteal</name><set>PowerUp</set></card>
+		<card><name id="1c8Areasteal.jpg">AreaSteal</name><set>PowerUp</set></card>
+		<card><name id="1c8Areasteal.jpg">AreaSteal</name><set>PowerUp</set></card>
+		<card><name id="2c9hicannon.jpg">HiCannon</name><set>GrandPrix</set></card>
+		<card><name id="2c9hicannon.jpg">HiCannon</name><set>GrandPrix</set></card>
+		<card><name id="2c9hicannon.jpg">HiCannon</name><set>GrandPrix</set></card>
+		<card><name id="1c14laserblast.jpg">LaserBlast</name><set>PowerUp</set></card>
+		<card><name id="1c14laserblast.jpg">LaserBlast</name><set>PowerUp</set></card>
+		<card><name id="1c14laserblast.jpg">LaserBlast</name><set>PowerUp</set></card>
+		<card><name id="1c14laserblast.jpg">LaserBlast</name><set>PowerUp</set></card>
+		<card><name id="1c9boomer2.jpg">Boomer2</name><set>PowerUp</set></card>
+		<card><name id="1c9boomer2.jpg">Boomer2</name><set>PowerUp</set></card>
+		<card><name id="1c9boomer2.jpg">Boomer2</name><set>PowerUp</set></card>
+		<card><name id="1c9boomer2.jpg">Boomer2</name><set>PowerUp</set></card>
+		<card><name id="2c12Vulcan2.jpg">Vulcan2</name><set>GrandPrix</set></card>
+		<card><name id="2c12Vulcan2.jpg">Vulcan2</name><set>GrandPrix</set></card>
+		<card><name id="2c12Vulcan2.jpg">Vulcan2</name><set>GrandPrix</set></card>
+	</superzone>
+	<superzone name="NetNavi">
+		<card><name id="2st78pharaohman.jpg">PharaohMan</name><set>GrandPrix</set></card>
+	</superzone>
+</deck>
