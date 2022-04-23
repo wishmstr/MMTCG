@@ -1,0 +1,16 @@
+MMTCG	4-22-22
+plugins/MMTCG/plugininfo.txt	https://raw.githubusercontent.com/wishmstr/MMTCG/main/plugininfo.txt	250197
+plugins/MMTCG/pluginpreferences.txt	https://raw.githubusercontent.com/wishmstr/MMTCG/main/pluginpreferences.txt	285906
+plugins/MMTCG/sets/carddata.txt	https://raw.githubusercontent.com/wishmstr/MMTCG/main/sets/carddata.txt	4450540
+plugins/MMTCG/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/wishmstr/MMTCG/main/sets/setimages/general/cardback.jpg	154677
+plugins/MMTCG/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/wishmstr/MMTCG/main/sets/setimages/general/spawned.jpg	154677
+plugins/MMTCG/CardImageURLs1.txt	https://raw.githubusercontent.com/wishmstr/MMTCG/main/CardImageURLs1.txt	3957500
+plugins/MMTCG/MegaMan-TCG-Rulebook-Grave.pdf	https://raw.githubusercontent.com/wishmstr/MMTCG/main/MegaMan-TCG-Rulebook-Grave.pdf	27761480
+plugins/MMTCG/decks/Bass_Starter_Deck.dek	https://raw.githubusercontent.com/wishmstr/MMTCG/main/decks/Bass_Starter_Deck.dek	407650
+plugins/MMTCG/decks/MegaMan_Starter_Deck.dek	https://raw.githubusercontent.com/wishmstr/MMTCG/main/decks/MegaMan_Starter_Deck.dek	427739
+plugins/MMTCG/decks/PharaohMan_Starter_Deck.dek	https://raw.githubusercontent.com/wishmstr/MMTCG/main/decks/PharaohMan_Starter_Deck.dek	421933
+plugins/MMTCG/decks/ProtoMan_Starter_Deck.dek	https://raw.githubusercontent.com/wishmstr/MMTCG/main/decks/SharkMan_Starter_Deck.dek	424694
+plugins/MMTCG/decks/SharkMan_Starter_Deck.dek	https://raw.githubusercontent.com/wishmstr/MMTCG/main/decks/SharkMan_Starter_Deck.dek	430775
+plugins/MMTCG/decks/TorchMan_Starter_Deck.dek	https://raw.githubusercontent.com/wishmstr/MMTCG/main/decks/TorchMan_Starter_Deck.dek	421792
+CardURLFiles:
+CardImageURLs1.txt
