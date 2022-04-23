@@ -1,4 +1,4 @@
-MMTCG	4-22-22
+MMTCG	04-22-22
 plugins/MMTCG/plugininfo.txt	https://raw.githubusercontent.com/wishmstr/MMTCG/main/plugininfo.txt	250197
 plugins/MMTCG/pluginpreferences.txt	https://raw.githubusercontent.com/wishmstr/MMTCG/main/pluginpreferences.txt	285906
 plugins/MMTCG/sets/carddata.txt	https://raw.githubusercontent.com/wishmstr/MMTCG/main/sets/carddata.txt	4450540
